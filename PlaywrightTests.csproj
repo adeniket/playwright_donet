@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include=".github\playwright.yml" />
+    <None Include=".github\workflows\playwright.yml" />
   </ItemGroup>
 
 </Project>
